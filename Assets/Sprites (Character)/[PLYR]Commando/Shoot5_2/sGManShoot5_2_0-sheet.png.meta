@@ -1,0 +1,692 @@
+fileFormatVersion: 2
+guid: e6f75eff145f80e42a95b1e74694725f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7197041476258027452
+    second: sGManShoot5_2_0-sheet_0
+  - first:
+      213: -4317503865657956938
+    second: sGManShoot5_2_0-sheet_1
+  - first:
+      213: 3772362183500026616
+    second: sGManShoot5_2_0-sheet_2
+  - first:
+      213: -3875401068199079610
+    second: sGManShoot5_2_0-sheet_3
+  - first:
+      213: -5599854424245033515
+    second: sGManShoot5_2_0-sheet_4
+  - first:
+      213: -5946978585789441153
+    second: sGManShoot5_2_0-sheet_5
+  - first:
+      213: -4021227953405328011
+    second: sGManShoot5_2_0-sheet_6
+  - first:
+      213: 9206700106346551541
+    second: sGManShoot5_2_0-sheet_7
+  - first:
+      213: 6620207016729898637
+    second: sGManShoot5_2_0-sheet_8
+  - first:
+      213: 5217703463278163246
+    second: sGManShoot5_2_0-sheet_9
+  - first:
+      213: -3744726425928877693
+    second: sGManShoot5_2_0-sheet_10
+  - first:
+      213: 8215994499974383996
+    second: sGManShoot5_2_0-sheet_11
+  - first:
+      213: 7743966030518378487
+    second: sGManShoot5_2_0-sheet_12
+  - first:
+      213: 1547372663778316674
+    second: sGManShoot5_2_0-sheet_13
+  - first:
+      213: -4426620394135781157
+    second: sGManShoot5_2_0-sheet_14
+  - first:
+      213: -7364955683240372743
+    second: sGManShoot5_2_0-sheet_15
+  - first:
+      213: 2329031331275814514
+    second: sGManShoot5_2_0-sheet_16
+  - first:
+      213: 441331343893873180
+    second: sGManShoot5_2_0-sheet_17
+  - first:
+      213: 299286044977842654
+    second: sGManShoot5_2_0-sheet_18
+  - first:
+      213: 3525594746567810734
+    second: sGManShoot5_2_0-sheet_19
+  - first:
+      213: -3720910108100835058
+    second: sGManShoot5_2_0-sheet_20
+  - first:
+      213: 1292732285893742649
+    second: sGManShoot5_2_0-sheet_21
+  - first:
+      213: -872137142565079148
+    second: sGManShoot5_2_0-sheet_22
+  - first:
+      213: 8154335138436063034
+    second: sGManShoot5_2_0-sheet_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.11549587, y: 0.3468364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44823eda8e8fe1c90800000000000000
+      internalID: -7197041476258027452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.118686676, y: 0.3468364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5e41bfb152514c0800000000000000
+      internalID: -4317503865657956938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.11709106, y: 0.3468364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2d2a74b6f1a5430800000000000000
+      internalID: 3772362183500026616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.11868658, y: 0.34205005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64113dfd24fc73ac0800000000000000
+      internalID: -3875401068199079610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.11709164, y: 0.3468364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5a9f802125942b0800000000000000
+      internalID: -5599854424245033515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.11709125, y: 0.34205005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b5a231c76187da0800000000000000
+      internalID: -5946978585789441153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.11549612, y: 0.34205005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57587645b7ab138c0800000000000000
+      internalID: -4021227953405328011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.11709125, y: 0.3468364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f85650b7f4c4cf70800000000000000
+      internalID: 9206700106346551541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.11868677, y: 0.3468364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eebb3d433bfdb50800000000000000
+      internalID: 6620207016729898637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.12028229, y: 0.34205005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e253500c7a1096840800000000000000
+      internalID: 5217703463278163246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.118687555, y: 0.3468364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389bd71f72f080cc0800000000000000
+      internalID: -3744726425928877693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.117092036, y: 0.35162276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79498fa773150270800000000000000
+      internalID: 8215994499974383996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.117092036, y: 0.3468364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff5db15318187b60800000000000000
+      internalID: 7743966030518378487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.115496516, y: 0.3468364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28118a74d3f597510800000000000000
+      internalID: 1547372663778316674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.11868677, y: 0.3468364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0890c643c7192c0800000000000000
+      internalID: -4426620394135781157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.117092036, y: 0.34205005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f596f9c3db6ac990800000000000000
+      internalID: -7364955683240372743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.117092036, y: 0.3468364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2763373f7a1625020800000000000000
+      internalID: 2329031331275814514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.117092036, y: 0.3468364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c124a0dd48cef1600800000000000000
+      internalID: 441331343893873180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.1154973, y: 0.3468364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9c22d7217472400800000000000000
+      internalID: 299286044977842654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.1154973, y: 0.34205005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae582b1ebd6de030800000000000000
+      internalID: 3525594746567810734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.1154973, y: 0.34205005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e094d7d88fbac5cc0800000000000000
+      internalID: -3720910108100835058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.1154973, y: 0.34205005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93010623a25b0f110800000000000000
+      internalID: 1292732285893742649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.117092036, y: 0.34205005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497fbfdb3eb85e3f0800000000000000
+      internalID: -872137142565079148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGManShoot5_2_0-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 0
+        width: 39
+        height: 13
+      alignment: 9
+      pivot: {x: 0.1170936, y: 0.41863182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f97f9da940a2170800000000000000
+      internalID: 8154335138436063034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
